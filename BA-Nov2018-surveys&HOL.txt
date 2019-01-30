@@ -1,0 +1,18 @@
+* HOL 
+  \_ webapp 15 mins --
+  \_ webapp w/SQL 30 mins
+  \_ serverless azure function 15 mins --
+  \_ Azure Function w/LogicApps and Cognitive Services 30-45 mins
+  \_ Azure App Service Container 15 mins --
+  \_ Azure Kubernetes 30-45 mins
+  \_ Azure DevOps Project .NET 30 mins
+  \_ Q&A Bot 15-30 mins
+
+
+*** goodies
+*** kahoot 
+*** apps survey
+	\_ https://aka.ms/BuenosAiresApps2018
+	\_ https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0oGxFKnx6dGh3oI8Ql9WnlUNzdHVlNFM0pPWkc0N0hSMk1WWTNPQTJCVy4u
+
+
